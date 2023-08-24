@@ -1,2 +1,1 @@
-My first readme for git 0x01.git
-README update for github.com
+My first readme
